@@ -1,1 +1,2 @@
-# advanced programming
+# Advanced Programming
+#This course extends the introductory learning of “Programming for Engineers” (SMJE1013) to the level of developing practical, medium- to #large- scale software systems.  Students learn several algorithms of diverse solutions, data structures other than simple array to ease #problem solving, as well as the principle of object orientation for large systems.  Also, systematic method of debugging, crucial for #efficient development, is explained.
